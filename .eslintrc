@@ -1,0 +1,14 @@
+{
+  "extends": "rallycoding",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    /**
+     * From React Native Team
+     */
+    "arrow-body-style": 0,
+    "react/jsx-tag-spacing": 0,
+    "no-underscore-dangle": "off"
+  }
+}
